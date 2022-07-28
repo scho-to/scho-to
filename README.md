@@ -1,11 +1,15 @@
 Name: Tobias Schotenröhr
+
 From: Germany, NRW
+
 Position: Fullstack Webdeveloper
 
-Stack:
-Backend:
+- Stack:
+
+- - Backend:
 Typescript/Javascript, PHP, Python, SQL (MySQL, Postgres), NoSQL (MongoDB, Redis) für
-Frontend:
+
+- - Frontend:
 Typescript/Javascript, HTML5/CSS3, Bootsrap 4-6, TailwindCSS
 
 Last Job Projects:
