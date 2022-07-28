@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @scho-to (Tobias Schotenröhr)
-- 👀 I’m interested in Webdev, Gaming and Stuff.
-- 🌱 I’m currently learning various Webdev Topics, Frontend and Backend.
+Name: Tobias Schotenröhr
+From: Germany, NRW
+Position: Fullstack Webdeveloper
 
-<!---
-scho-to/scho-to is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Stack:
+Backend:
+Typescript/Javascript, PHP, Python, SQL (MySQL, Postgres), NoSQL (MongoDB, Redis) für
+Frontend:
+Typescript/Javascript, HTML5/CSS3, Bootsrap 4-6, TailwindCSS
+
+Last Job Projects:
+- Fullstack: Replacing Google ReCaptcha v3 with Friendly Captcha.
+- Backend: Create new Backend with Typescript for a Sustainability Report.
