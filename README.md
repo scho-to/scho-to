@@ -18,3 +18,4 @@ Latest Job Projects:
 - Backend: Extend Microservices to use Amazon AWS SQS and/or Nats as an unified message system.
 - Backend: Create a new Microservice to parse Nats Stream Messages to Amazon AWS SQS Channels.
 - Fullstack: Automated quotations implementation to our storefront by developing a new python 3.8 microservice to generate PDFs
+- Backend: Migration from Nats Stan to Nats Jetstream in almost all Microservices.
